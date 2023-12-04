@@ -16,20 +16,20 @@ Fare: Passenger fare
 Embarked: Port of embarkation (C = Cherbourg, Q = Queenstown, S = Southampton)
 ## Files
 1)EDA.ipynb: Jupyter Notebook containing the EDA code and analysis.
-2)titanic.csv: The Titanic dataset in CSV format.
+2)train.csv and test.csv : The Titanic dataset in CSV format.
 ## Analysis Highlights
-Data Cleaning: Handling missing values, removing duplicates, and ensuring data integrity.
-Descriptive Statistics: Summarizing key statistics for numerical features.
-Visualizations: Creating visualizations (bar plots, histograms, etc.) to explore relationships and distributions.
-Feature Engineering: Deriving new features to enhance model performance.
-Correlation Analysis: Understanding correlations between different features.
-Survival Analysis: Examining factors influencing survival rates.
+1)Data Cleaning: Handling missing values, removing duplicates, and ensuring data integrity.
+2)Descriptive Statistics: Summarizing key statistics for numerical features.
+3)Visualizations: Creating visualizations (bar plots, histograms, etc.) to explore relationships and distributions.
+4)Feature Engineering: Deriving new features to enhance model performance.
+5)Correlation Analysis: Understanding correlations between different features.
+6)Survival Analysis: Examining factors influencing survival rates.
 ## Dependencies
-Python 3.x
-Jupyter Notebook
-Pandas
-NumPy
-Matplotlib
-Seaborn
+1)Python 3.x
+2)Jupyter Notebook
+3)Pandas
+4)NumPy
+5)Matplotlib
+6)Seaborn
 
 ### Feel free to explore, analyze, and build upon this EDA to extract valuable insights from the Titanic dataset.
