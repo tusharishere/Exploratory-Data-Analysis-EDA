@@ -15,8 +15,8 @@ Parch: Number of parents/children aboard
 Fare: Passenger fare
 Embarked: Port of embarkation (C = Cherbourg, Q = Queenstown, S = Southampton)
 ## Files
-titanic_eda.ipynb: Jupyter Notebook containing the EDA code and analysis.
-titanic.csv: The Titanic dataset in CSV format.
+1)EDA.ipynb: Jupyter Notebook containing the EDA code and analysis.
+2)titanic.csv: The Titanic dataset in CSV format.
 ## Analysis Highlights
 Data Cleaning: Handling missing values, removing duplicates, and ensuring data integrity.
 Descriptive Statistics: Summarizing key statistics for numerical features.
